@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|c:\\users\\user\\documents\\tchy documents\\projects\\college-application\\college-application\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|solutionrelative:college-application\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|c:\\users\\user\\documents\\tchy documents\\projects\\college-application\\college-application\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|solutionrelative:college-application\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|c:\\users\\user\\documents\\tchy documents\\projects\\college-application\\college-application\\models\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|solutionrelative:college-application\\models\\collegerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|c:\\users\\user\\documents\\tchy documents\\projects\\college-application\\college-application\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32EDE18C-1746-4F1E-A60D-606AA45BFDC8}|COLLEGE-APPLICATION\\COLLEGE-APPLICATION.csproj|solutionrelative:college-application\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "COLLEGE-APPLICATION\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\Student.cs",
+              "RelativeToolTip": "COLLEGE-APPLICATION\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:29:50.64Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "COLLEGE-APPLICATION\\Models\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\StudentDTO.cs",
+              "RelativeToolTip": "COLLEGE-APPLICATION\\Models\\StudentDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:14:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\CollegeRepository.cs",
+              "RelativeDocumentMoniker": "COLLEGE-APPLICATION\\Models\\CollegeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Models\\CollegeRepository.cs",
+              "RelativeToolTip": "COLLEGE-APPLICATION\\Models\\CollegeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T10:59:43.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Controllers\\studentController.cs",
+              "RelativeDocumentMoniker": "COLLEGE-APPLICATION\\Controllers\\studentController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\TCHY DOCUMENTS\\PROJECTS\\COLLEGE-APPLICATION\\COLLEGE-APPLICATION\\Controllers\\studentController.cs",
+              "RelativeToolTip": "COLLEGE-APPLICATION\\Controllers\\studentController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T09:22:24.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
